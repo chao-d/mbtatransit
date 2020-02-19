@@ -81,22 +81,10 @@ p {
 	}
 }
 
-.primary-btn {
-	padding: 15px;
-	text-transform: uppercase;
-	color: rgba(255, 255, 255, 0.5);
-	border: 2px solid rgba(255, 255, 255, 0.6);
+/* .appstore-btn {
+	padding: 0px;
 	border-radius: 3px;
-	font-size: 15px;
-	font-weight: 500;
-}
-
-.primary-btn:hover {
-	transition: all 0.1s ease-in-out;
-	color: #21272f;
-	background: #fff;
-	box-shadow: 0 4px 20px 2px rgba(0, 0, 0, 0.2);
-}
+} */
 
 .container {
 	display: block;
@@ -130,12 +118,6 @@ p {
 		margin-bottom: 0;
 		text-align: left;
 	}
-}
-
-.app-store-btn::before {
-	padding-right: 8px;
-	content: '';
-	font-size: 16px;
 }
 
 .app-icon {
